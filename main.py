@@ -1,1 +1,1 @@
-print('kgf')
+print('KGF')
