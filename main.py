@@ -1,3 +1,3 @@
-print('hi 13 be')
+print('hi be')
 
 print('cc')
