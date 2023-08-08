@@ -1,1 +1,1 @@
-print('lodha')
+print('lod')
